@@ -1,0 +1,56 @@
+.wraper                     { width:980px; margin: 0 auto;}
+body                        { font-family: 'Open Sans', arial, sans-serif; font-size: 12px; color:#666666;
+                              background-image: url("../images/clean_textile.png");}
+
+#header                     { height: 100px; }
+#logo                       { float: left; margin-top: 30px; margin-left: 15px;}
+#mainMenu                   { display: inline-block; font-family: 'Oswald',arial,sans-serif; font-size: 15px; font-weight: 300;
+                              margin: 48px 0 0 33%; text-transform: uppercase;}
+#mainMenu a                 { text-decoration: none; color: #ababac; line-height: 18px; padding: 0 5px;  }
+#mainMenu a:hover           { background-color: yellow; color: #772a00; }
+#mainMenu a:active          { background-color: yellow; color: #772a00; position: relative;}
+/*#mainMenu a:active:before {background: none repeat scroll 0 0 #D9CBC4; content: ""; display: inline-block; height: 48px;
+                          margin: 0 38% 14px; position: absolute; top: -48px; width: 1px;}*/
+#mainMenu li                { display: inline-block; margin-right: 30px; }
+
+#asideMenu                  { float: left; background-image: url("../images/mascot2.png"); width: 121px; height: 172px;
+                              margin: 38px 10px; position: fixed; }
+#asideMenu a                { text-decoration: none; color: #eeeeee;  padding: 0 5px;}
+#asideMenu a:hover          { background-color: yellow; color: #772a00; }
+#asideMenu a:active         { background-color: yellow; color: #772a00; }
+#asideMenu ul               { line-height: 21px; padding: 24px 13px;}
+#mainContent                { float: right; margin-top: 32px;}
+.projectBox                 { margin-bottom: 50px; width: 815px; }
+.projectImage               { background: #e5e5e5; }
+.projectImage img           { margin: 5px 6px; padding-bottom: 6px;}
+.background_top             { margin-bottom: -1px; }
+.background_bottom          { margin-top: -11px;}
+.projectDescription         { line-height: 18px; padding: 14px 8px;}
+.specification              { display: inherit; font-size: 11px; font-style: inherit; font-weight: lighter; line-height: 7px; }
+
+/* FOOTER*/
+#footer                     { display: inline-block; width: 100%; text-align: center; margin: 0 0 10px 85px;}
+#footer span                { color: yellow; display: inline-block; margin-top: 12px; }
+#footer span:hover          { background-image: url("../images/smile.png"); height: 20px; width: 31px; cursor: default; color: transparent;
+                              margin: 13px 0 0 1px;}
+.round-bg                   { background-color: #666666; border-radius: 50% 50% 50% 50%; height: 42px; margin: 0 auto; width: 42px;}
+
+                              /*.activeItem
+                            { background: none repeat scroll 0 0 #D9CBC4; content: ""; display: inline-block; height: 48px;
+                              margin: 0 38% 14px; position: absolute; top: -48px; width: 1px;} */
+
+/* Other Stuff page*/
+#asideDescription           { float: left; background-image: url("../images/mascot2.png"); width: 121px; height: 172px;
+                              margin: 38px 10px;}
+#asideDescription p         { color: #FFF000; font-family: 'Oswald', arial, sans-serif; font-size: 15px; margin: 30px 12px; padding: 3px;
+                              text-align: center; text-transform: uppercase;}
+
+/*About Me Page*/
+#asideBrain                 { margin: 7px;}
+.personalInfo               { background: none repeat scroll 0 0 #FFFFFF; display: inline-block; margin: 4px 6px;
+                              padding: 15px 0 60px 33px; width: 94.5%;}
+.personalInfo p             { margin: 0; padding: 0 42px 0 0; font-size: 13px;}
+              h1            { font-size: 30px; font-weight: lighter; color: #111111; margin: 15px 0 25px;}
+              h2            { font-size:  16px; font-weight: normal; color: #111111; margin: 30px 0 8px;}
+              h4            { font-weight: normal; font-size: 13px; color: #000000; float: left;}
+              i             { font-weight: lighter;}
