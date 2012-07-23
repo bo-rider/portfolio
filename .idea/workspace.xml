@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2080975c-cf6c-4fea-bcef-f7a43ff4e0c5" name="Default" comment="">
-      <change type="DELETED" beforePath="K:\web_dev\portfolio\images\._screens_background_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="K:\web_dev\portfolio\images\._screens_background_top.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/soldier.png" afterPath="$PROJECT_DIR$/images/soldier.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inner_pages/illustration.html" afterPath="$PROJECT_DIR$/inner_pages/illustration.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inner_pages/logotypes.html" afterPath="$PROJECT_DIR$/inner_pages/logotypes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inner_pages/other.html" afterPath="$PROJECT_DIR$/inner_pages/other.html" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="1455" selection-end="1455" vertical-scroll-proportion="0.584375">
+            <state line="75" column="24" selection-start="3952" selection-end="3952" vertical-scroll-proportion="-12.423077">
               <folding />
             </state>
           </provider>
@@ -43,7 +36,7 @@
       <file leaf-file-name="illustration.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner_pages/illustration.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="90" selection-start="3110" selection-end="3110" vertical-scroll-proportion="-16.76923">
+            <state line="51" column="97" selection-start="2453" selection-end="2453" vertical-scroll-proportion="-4.8076925">
               <folding />
             </state>
           </provider>
@@ -52,7 +45,7 @@
       <file leaf-file-name="logotypes.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner_pages/logotypes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="18" selection-start="3358" selection-end="3358" vertical-scroll-proportion="-18.73077">
+            <state line="50" column="111" selection-start="2420" selection-end="2511" vertical-scroll-proportion="-12.0">
               <folding />
             </state>
           </provider>
@@ -61,7 +54,7 @@
       <file leaf-file-name="other.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner_pages/other.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="0" selection-start="3596" selection-end="3596" vertical-scroll-proportion="-32.46154">
+            <state line="66" column="93" selection-start="3430" selection-end="3430" vertical-scroll-proportion="-15.923077">
               <folding />
             </state>
           </provider>
@@ -70,7 +63,7 @@
       <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inner_pages/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="24" selection-start="4183" selection-end="4187" vertical-scroll-proportion="0.0">
+            <state line="37" column="31" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,16 +72,16 @@
       <file leaf-file-name="reset.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/reset.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="13" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0">
+            <state line="3" column="2" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/styles.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="53" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0">
+            <state line="24" column="43" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.8015717">
               <folding />
             </state>
           </provider>
@@ -113,21 +106,21 @@
         <option value="$PROJECT_DIR$/other.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/styles/styles.css" />
-        <option value="$PROJECT_DIR$/styles/styles.less" />
-        <option value="$PROJECT_DIR$/inner_pages/about.html" />
         <option value="$PROJECT_DIR$/styles/reset.css" />
-        <option value="$PROJECT_DIR$/inner_pages/other.html" />
         <option value="$PROJECT_DIR$/inner_pages/logotypes.html" />
+        <option value="$PROJECT_DIR$/inner_pages/about.html" />
+        <option value="$PROJECT_DIR$/inner_pages/other.html" />
         <option value="$PROJECT_DIR$/inner_pages/illustration.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles/styles.less" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="263" />
-    <option name="y" value="325" />
-    <option name="width" value="1114" />
-    <option name="height" value="856" />
+    <option name="x" value="452" />
+    <option name="y" value="566" />
+    <option name="width" value="1037" />
+    <option name="height" value="699" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -155,16 +148,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,12 +182,22 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
     <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -263,17 +256,26 @@
       <created>1342493718738</created>
       <updated>1342493718738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="minor changes">
+      <created>1342652674155</created>
+      <updated>1342652674155</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding content">
+      <created>1343011570829</created>
+      <updated>1343011570829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="263" y="325" width="1114" height="856" extended-state="0" />
+    <frame x="452" y="566" width="1037" height="699" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31676137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18686402" sideWeight="0.67045456" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20119523" sideWeight="0.67045456" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -284,7 +286,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31676137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -327,7 +328,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add some srcipt for use less format. Added some image and element style. Delete some element name from reset.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding content" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -342,6 +343,8 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="personal info editing" />
     <MESSAGE value="Add some srcipt for use less format. Added some image and element style. Delete some element name from reset.css" />
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="adding content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -354,47 +357,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inner_pages/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="24" selection-start="4183" selection-end="4187" vertical-scroll-proportion="0.0">
+        <state line="37" column="31" selection-start="1542" selection-end="1542" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="13" selection-start="701" selection-end="701" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/styles.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="53" selection-start="1884" selection-end="1884" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="2" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inner_pages/logotypes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="18" selection-start="3358" selection-end="3358" vertical-scroll-proportion="-18.73077">
+        <state line="50" column="111" selection-start="2420" selection-end="2511" vertical-scroll-proportion="-12.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inner_pages/other.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="0" selection-start="3596" selection-end="3596" vertical-scroll-proportion="-32.46154">
+        <state line="66" column="93" selection-start="3430" selection-end="3430" vertical-scroll-proportion="-15.923077">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inner_pages/illustration.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="90" selection-start="3110" selection-end="3110" vertical-scroll-proportion="-16.76923">
+        <state line="51" column="97" selection-start="2453" selection-end="2453" vertical-scroll-proportion="-4.8076925">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1455" selection-end="1455" vertical-scroll-proportion="0.584375">
+        <state line="75" column="24" selection-start="3952" selection-end="3952" vertical-scroll-proportion="-12.423077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="43" selection-start="1874" selection-end="1874" vertical-scroll-proportion="0.8015717">
           <folding />
         </state>
       </provider>
